@@ -1,4 +1,4 @@
-# Manager Pro Ultra – PES 2014 (V1.1)
+# Manager Pro Ultra – PES 2014 (V1.2)
 
 Aplicación web instalable (PWA) para Android. Organiza nuestra Liga Máster localmente en el navegador.
 
@@ -10,6 +10,7 @@ Aplicación web instalable (PWA) para Android. Organiza nuestra Liga Máster loc
 - Balance de victorias, empates, derrotas y diferencia de gol.
 - Exportación y restauración de copia JSON, incluyendo imágenes.
 - Caché de recursos para uso sin conexión después de la primera carga.
+- Iconos PWA optimizados en SVG para tamaños de 192 y 512 px, además del icono vectorial adaptable.
 
 ## Publicar e instalar en Android
 Los archivos ya están cargados en la raíz de este repositorio. No hace falta subirlos otra vez.
